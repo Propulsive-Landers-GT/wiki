@@ -7,6 +7,8 @@ description: >-
 
 # Rocket Fundamentals
 
+<div><figure><img src="../.gitbook/assets/image (18).png" alt="" width="336"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (17).png" alt="" width="320"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (19).png" alt="" width="374"><figcaption></figcaption></figure></div>
+
 ### Full Thrust Equation&#x20;
 
 The full thrust equation includes both momentum thrust and pressure thrust.
@@ -14,6 +16,9 @@ The full thrust equation includes both momentum thrust and pressure thrust.
 $$
 F=\dot{m}_{tot}v_e+(P_e-P_a)A_e
 $$
+
+* Thrust depends on both mass flow rate and pressure difference, but note that mass flow rate (& exhaust velocity at exit) is the dominating term here.&#x20;
+* Thus, you can theoretically get an infinite pressure differential to maximize that term but your thrust would still decrease since you are forcing the nozzle toward a condition where the exit area, exit velocity, or mass flow solution no longer makes sense for the engine you are actually designing.
 
 ### Total Mass Flow Rate
 
@@ -29,7 +34,7 @@ $$
 \frac{O}{F}=\frac{\dot{m}_{ox}}{\dot{m}_f}
 $$
 
-Simple term, but you gotta engrave it to your head!! Engine performance is heavily related to our O/F ratio as it changes various properties including c\* and Isp.&#x20;
+Simple term, but you gotta engrave it to your head!! Engine performance is heavily related to our O/F ratio as it changes various properties including, but not limited to, c\* and Isp.&#x20;
 
 ### Characteristic Velocity
 
@@ -39,7 +44,8 @@ $$
 c^*=\frac{P_cA_t}{\dot{m}_{tot}}
 $$
 
-A higher c\* generally means the propellant combination and chamber are producing energy more effectively. It is useful because it mostly describes the chamber/combustion side, not the nozzle expansion side. It is a value we obtain on NASA-CEA. The equation for c\* you see above is what we would use to calculate c\* post-hotfire. In that case, we would compare it against our theoretical c\* to obtain our c\* efficiency.
+* A higher c\* generally means the propellant combination and chamber are producing energy more effectively. It is useful because it mostly describes the chamber/combustion side, not the nozzle expansion side. It is a value we obtain on NASA-CEA.&#x20;
+* The equation for c\* you see above is what we would use to calculate c\* post-hotfire. In that case, we would compare it against our theoretical c\* to obtain our c\* efficiency.
 
 ### Thrust Coefficient
 
@@ -59,7 +65,9 @@ $$
 I_{sp}=\frac{F}{\dot{m}_{tot}g_0}
 $$
 
-Higher (I\_{sp}) means more thrust for the same propellant flow rate. This is the number people usually use to compare engines and propellant combinations. It is also the first step in sizing the combined mass flow rate of an engine we're designing for. In that case, we'd rearrange the equation in terms of mdot and calculate it based on required thrust and the Isp we obtain on [nasa-cea-web.md](nasa-cea-web.md "mention")/ [nasa-cea-python.md](nasa-cea-python.md "mention"). The equation for Isp you see above is what we would use to calculate Isp post-hotfire. In that case, we would compare it against our theoretical Isp to obtain our Isp efficiency.
+* Higher (I\_{sp}) means more thrust for the same propellant flow rate. This is the number people usually use to compare engines and propellant combinations. It is also the first step in sizing the combined mass flow rate of an engine we're designing for.&#x20;
+* In that case, we'd rearrange the equation in terms of mdot and calculate it based on required thrust and the Isp we obtain on [nasa-cea-web.md](nasa-cea-web.md "mention")/ [nasa-cea-python.md](nasa-cea-python.md "mention").&#x20;
+* The equation for Isp you see above is what we would use to calculate Isp post-hotfire. In that case, we would compare it against our theoretical Isp to obtain our Isp efficiency.
 
 ### Thrust
 
