@@ -1,3 +1,2 @@
-# Tutorials
+# Wiki!
 
-Use tutorials for repeatable how-to guides.
