@@ -1,6 +1,8 @@
 # Table of contents
 
 * [GT Propulsive Landers](README.md)
+  * [Our Mission](readme/our-mission.md)
+  * [Past Research](readme/past-research.md)
 * [Quick Links](quick-links.md)
 * [Team Info](team-info/README.md)
   * [Propulsion](team-info/propulsion.md)
@@ -21,8 +23,12 @@
   * [NASA-CEA Web](wiki/nasa-cea-web.md)
   * [NASA-CEA Python](wiki/nasa-cea-python.md)
   * [Bartz Correlation](wiki/bartz-correlation.md)
-* [History of the Team](history.md)
-* [Research](research.md)
+  * [Propellant Feed System Design](wiki/propellant-feed-system-design.md)
+  * [Pipes, Fittings, and Valves](wiki/pipes-fittings-and-valves.md)
+  * [Rocket Engine Cycles](wiki/rocket-engine-cycles.md)
+* [For Team Members](for-team-members.md)
 * [Reference](reference/README.md)
   * [Resources & Literature](reference/resources-and-literature.md)
+  * [Common Acronyms](reference/common-acronyms.md)
+* [History of the Team](history.md)
 * [Frequently Asked Questions](faq.md)

@@ -1,3 +1,7 @@
+---
+description: Coming soon.
+---
+
 # New Member Checklist
 
 * Join team communication channels.
@@ -7,3 +11,4 @@
 * Install required software.
 * Attend a subteam meeting.
 * Pick a first task with a lead.
+

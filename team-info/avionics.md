@@ -1,9 +1,3 @@
 # Avionics
 
-## Status
-
-## Owner
-
-## Key Links
-
-## Notes
+Coming soon.
