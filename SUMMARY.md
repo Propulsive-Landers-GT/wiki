@@ -8,6 +8,7 @@
   * [GNC](team-info/gnc.md)
   * [FinOps](team-info/finops.md)
   * [Structures](team-info/structures.md)
+* [Research](research.md)
 * [Onboarding](onboarding/README.md)
   * [New Member Checklist](onboarding/new-member-checklist.md)
   * [Accounts and Access](onboarding/accounts-and-access.md)
