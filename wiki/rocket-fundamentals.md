@@ -65,7 +65,7 @@ $$
 I_{sp}=\frac{F}{\dot{m}_{tot}g_0}
 $$
 
-* Higher (I\_{sp}) means more thrust for the same propellant flow rate. This is the number people usually use to compare engines and propellant combinations. It is also the first step in sizing the combined mass flow rate of an engine we're designing for.&#x20;
+* Higher Isp means more thrust for the same propellant flow rate. This is the number people usually use to compare engines and propellant combinations. It is also the first step in sizing the combined mass flow rate of an engine we're designing for.&#x20;
 * In that case, we'd rearrange the equation in terms of mdot and calculate it based on required thrust and the Isp we obtain on [nasa-cea-web.md](nasa-cea-web.md "mention")/ [nasa-cea-python.md](nasa-cea-python.md "mention").&#x20;
 * The equation for Isp you see above is what we would use to calculate Isp post-hotfire. In that case, we would compare it against our theoretical Isp to obtain our Isp efficiency.
 
