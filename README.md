@@ -1,37 +1,35 @@
 # GT Propulsive Landers
 
-Welcome to GT Propulsive Landers' documentation.
+Welcome to GTPL's official wiki!&#x20;
 
-This space contains onboarding, team references, project notes, tutorials, test documentation, and technical reference material for current and prospective members.
 
-## Members: Want to edit the GitBook?
 
-Ask team leadership or the documentation lead for GitBook/GitHub access. Once Git Sync is enabled, changes made in GitBook can sync back to GitHub.
+##
 
 ## Welcome!
 
 Start with onboarding and the FAQ, then move into the project areas relevant to your subteam.
 
-{% content-ref url="onboarding/README.md" %}
-[README.md](onboarding/README.md)
+{% content-ref url="onboarding/" %}
+[onboarding](onboarding/)
 {% endcontent-ref %}
 
 {% content-ref url="faq.md" %}
 [faq.md](faq.md)
 {% endcontent-ref %}
 
-{% content-ref url="member-info/README.md" %}
-[README.md](member-info/README.md)
+{% content-ref url="/broken/pages/ofXf8RxtUIuHh16QcCpw" %}
+[Broken link](/broken/pages/ofXf8RxtUIuHh16QcCpw)
 {% endcontent-ref %}
 
-{% content-ref url="current-projects/README.md" %}
-[README.md](current-projects/README.md)
+{% content-ref url="team-info/" %}
+[team-info](team-info/)
 {% endcontent-ref %}
 
-{% content-ref url="testing/README.md" %}
-[README.md](testing/README.md)
+{% content-ref url="/broken/pages/tGgQBmum8zfjUwqECpvR" %}
+[Broken link](/broken/pages/tGgQBmum8zfjUwqECpvR)
 {% endcontent-ref %}
 
-{% content-ref url="reference/README.md" %}
-[README.md](reference/README.md)
+{% content-ref url="reference/" %}
+[reference](reference/)
 {% endcontent-ref %}
