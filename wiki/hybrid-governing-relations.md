@@ -4,6 +4,8 @@ description: Governing equations needed in the general design of a hybrid rocket
 
 # Hybrid Governing Relations
 
+{% embed url="https://www.youtube.com/watch?v=LJj69JuZ7og" %}
+
 Team's favorite reference for these are: [https://web.stanford.edu/\~cantwell/AA284A\_Course\_Material/Karabeyoglu%20AA%20284A%20Lectures/AA284a\_Lecture10.pdf](https://web.stanford.edu/~cantwell/AA284A_Course_Material/Karabeyoglu%20AA%20284A%20Lectures/AA284a_Lecture10.pdf)&#x20;
 
 * Highly recommended for those who wish to understand in-depth how design choices affect hybrid performance and how changing one variable lead to change in another.&#x20;
