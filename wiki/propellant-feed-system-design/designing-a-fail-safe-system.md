@@ -36,7 +36,7 @@ What we end up with is a situation below. We have a pressurized section of line 
 
 <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
-* At this point, the system may look “off” because no valve is actively flowing and nothing is venting. But that does not mean the system is safe. In fact, there is&#x20;
+* At this point, the system may look “off” because no valve is actively flowing and nothing is venting. But that does not mean the system is safe. For all you know, LOX is about to hit 150 bar after you've left it in a trapped volume for a couple minutes too many.
 * This is the exact kind of case we are trying to catch during a fail-safe review. Designing a system to be fail-safe is magnitudes more important than designing just a system that meets the flow rate requirement.
 
 The important thing to notice is that the trapped volume may not be obvious at first. The tank side may be isolated by the regulator, and the outlet side may look like it eventually goes to atmosphere, but if the valves around that section are closed, the gas between them is still trapped. This, depending on the fluid that you're working with, can become extremely dangerous real quick.&#x20;
