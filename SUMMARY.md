@@ -24,6 +24,7 @@
   * [NASA-CEA Python](wiki/nasa-cea-python.md)
   * [Bartz Correlation](wiki/bartz-correlation.md)
   * [Propellant Feed System Design](wiki/propellant-feed-system-design.md)
+  * [Cooling Nusselt Relations](wiki/cooling-nusselt-relations.md)
   * [Pipes, Fittings, and Valves](wiki/pipes-fittings-and-valves.md)
   * [Rocket Engine Cycles](wiki/rocket-engine-cycles.md)
 * [For Team Members](for-team-members.md)
