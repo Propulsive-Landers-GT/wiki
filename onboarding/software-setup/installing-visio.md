@@ -1,6 +1,8 @@
-# Installing Visio
+---
+description: 'Follow Instructions to Install VISIO here:'
+---
 
-### Follow Instructions to Install VISIO here:
+# Installing Visio
 
 <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 

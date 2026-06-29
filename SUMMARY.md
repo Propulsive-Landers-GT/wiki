@@ -20,6 +20,7 @@
 * [Wiki!](wiki/README.md)
   * [Propellant Feed System Design](wiki/propellant-feed-system-design/README.md)
     * [Pipes, Fittings, and Valves](wiki/propellant-feed-system-design/pipes-fittings-and-valves.md)
+    * [Component dP Equations](wiki/propellant-feed-system-design/component-dp-equations.md)
     * [Designing a Fail-Safe System](wiki/propellant-feed-system-design/designing-a-fail-safe-system.md)
     * [Relief Valve Sizing](wiki/propellant-feed-system-design/relief-valve-sizing.md)
   * [Rocket Fundamentals](wiki/rocket-fundamentals.md)
