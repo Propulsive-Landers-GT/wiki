@@ -1,14 +1,8 @@
 # CEA ABS Handling
 
-ABS is not included in our CEA library as a simple built-in reactant. If we try to use:
+<figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>
 
-`fuel=ABS`
-
-CEA will not know what to do with it.
-
-To get around this, we define ABS manually in the CEA reactants section using a formula and heat of formation from Whitmore's hybrid rocket fuel work. This lets us use ABS in the same way we use paraffin (as a named fuel with explicitly provided thermochemical properties).
-
-
+ABS is not included in our CEA library as a reactant so instead we define ABS manually in CEA using a the molecular formula and heat of formation from Whitmore's work. This lets us use ABS in the same way we use paraffin (as a named fuel with explicitly provided thermochemical properties).
 
 * For our scripts, ABS is modeled as:
   * `C3.85 H4.85 N0.43`
