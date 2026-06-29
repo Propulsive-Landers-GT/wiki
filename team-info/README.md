@@ -1,3 +1,0 @@
-# Team Info
-
-Coming soon.
