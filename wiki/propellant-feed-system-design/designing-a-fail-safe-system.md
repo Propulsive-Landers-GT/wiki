@@ -6,7 +6,7 @@ To address that, we design our system in a way that we know will fail-safe. A fa
 
 > <mark style="color:$primary;">To do that, we take advantage of our valve's normal states.</mark>
 
-This is often the step right after an initial version of the PFS has been designed. We'll explore multiple examples using Visio. If you would like to explore on your own, feel free to download Visio. If you are a student, follow the instructions on [installing-visio.md](../../onboarding/software-setup/installing-visio.md "mention").
+This is often the step right after an initial version of the PFS has been designed. We'll explore multiple examples using Visio. If you would like to explore on your own, feel free to download Visio. If you are a student, follow the instructions on [installing-visio.md](../../onboarding/software-and-access/installing-visio.md "mention").
 
 ## Recognizing Trapped Volume
 
