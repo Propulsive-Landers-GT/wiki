@@ -2,7 +2,7 @@
 
 ### Follow Instructions to Install VISIO here:
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 1. Go to [https://azure.microsoft.com/en-us/free/students](https://azure.microsoft.com/en-us/free/students)
 2. Sign in/create an account with your **GT email**
