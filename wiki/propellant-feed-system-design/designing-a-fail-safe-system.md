@@ -110,7 +110,7 @@ There was a third option that I haven't mentioned, and it's to incorporate both!
 
 <figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-* PU-VNT is normally open so if the system loses control, the trapped section has a path to vent via the turquoise (?) arrow.&#x20;
+* PU-VNT is normally open so if the system loses control, the trapped section has a path to vent via the turquoise arrow.&#x20;
 * PMV is normally closed, so flow to the outlet or engine stops by default.
 * The relief valve is still included as a backup in case pressure rises faster than expected or the vent path does not behave perfectly.
 * PU-PT is placed on the trapped section so we can tell whether that section is still pressurized.
