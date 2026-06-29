@@ -7,6 +7,8 @@ description: >-
 
 # NASA-CEA Web
 
+<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Credit: <a href="https://www.spacetv.net/live/2024-state-of-nasa-address-from-administrator-bill-nelson/">https://www.spacetv.net/live/2024-state-of-nasa-address-from-administrator-bill-nelson/</a></p></figcaption></figure>
+
 In this guide, you will learn how to use the NASA CEARun web version to obtain equilibrium combustion properties, theoretical rocket performance, chamber temperature, characteristic velocity, specific impulse, and exhaust composition for a selected propellant combination. For anything rockets, this is a site you will be visiting frequently for a variety of reasons. In GTPL, you will need it for purposes including but not limited to:
 
 * Obtaining Isp, c\*, expansion ratio, Cf, for engine design

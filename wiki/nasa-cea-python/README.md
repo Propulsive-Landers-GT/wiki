@@ -1,6 +1,10 @@
+---
+description: NASA CEA / CEARUN Setup for Python
+---
+
 # NASA-CEA Python
 
-NASA CEA / CEARUN Setup for Python
+<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption><p>Credit: <a href="https://mobyfox.com/collections/nasa-silicone?srsltid=AfmBOopYLKAvK2_QrMo6uhUu4uLnNxCQzVR_m0qoQMNIW05qBa8OGkVK">https://mobyfox.com/collections/nasa-silicone?srsltid=AfmBOopYLKAvK2_QrMo6uhUu4uLnNxCQzVR_m0qoQMNIW05qBa8OGkVK</a></p></figcaption></figure>
 
 For our Python scripts, we use the Python `cea` package instead of manually compiling NASA CEA from source. This means you do **not** need to install Intel Fortran, CMake, Ninja, or Visual Studio Build Tools for the normal GTPL CEA scripts.
 
