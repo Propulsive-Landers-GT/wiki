@@ -64,7 +64,7 @@ Note: fittings seal in different ways. Some seal on threads, some seal on ferrul
 * The team adopts JIC 37 as the standard fitting for high pressure systems because swagelok is incredibly expensive. Downside of flared fittings like JIC 37 is that it takes more time to prepare/flare and is more likely to have an imperfect seal which means we may have to redo them sometimes.
 * NPT fittings are used on our system when we want to connect it to a sensor. Otherwise, our system is mainly JIC 37 and Yorlock is only used on the main lander, 200 bar Nitrogen segment.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 ### Valves
 
@@ -87,7 +87,7 @@ Valves control whether flow is allowed, blocked, vented, throttled, or isolated.
 
 **Note:** On feed systems, the most important thing is to design it in such a way that things fail safe. A separate thread will cover how to design a PFS such that in different contingencies the system relieves all pressures automatically without human intervention thus allowing people to approach safely after.
 
-<figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 ### Common Failure Modes
 

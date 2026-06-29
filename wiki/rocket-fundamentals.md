@@ -34,7 +34,7 @@ $$
 \frac{O}{F}=\frac{\dot{m}_{ox}}{\dot{m}_f}
 $$
 
-Simple term, but you gotta engrave it to your head!! Engine performance is heavily related to our O/F ratio as it changes various properties including, but not limited to, c\* and Isp.&#x20;
+Engine performance is heavily related to our O/F ratio as it changes various properties including, but not limited to, c\* and Isp. <mark style="color:red;">**DON'T EVER FORGET WHAT O/F RATIO IS!**</mark>
 
 ### Characteristic Velocity
 
