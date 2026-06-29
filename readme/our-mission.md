@@ -1,3 +1,0 @@
-# Our Mission
-
-Coming soon.

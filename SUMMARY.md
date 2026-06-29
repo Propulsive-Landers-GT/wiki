@@ -1,8 +1,6 @@
 # Table of contents
 
 * [GT Propulsive Landers](README.md)
-  * [Our Mission](readme/our-mission.md)
-  * [Past Research](readme/past-research.md)
 * [Quick Links](quick-links.md)
 * [Team Info](team-info/README.md)
   * [Propulsion](team-info/propulsion.md)
