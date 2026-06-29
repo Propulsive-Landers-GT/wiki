@@ -41,6 +41,7 @@
     * [Script for N2O/Paraffin](wiki/nasa-cea-python/script-for-n2o-paraffin.md)
     * [Script for LOX/Paraffin](wiki/nasa-cea-python/script-for-lox-paraffin.md)
     * [Script for LOX/RP-1](wiki/nasa-cea-python/script-for-lox-rp-1.md)
+    * [Script for LOX/CH4](wiki/nasa-cea-python/script-for-lox-ch4.md)
   * [Cooling Nusselt Relations](wiki/cooling-nusselt-relations.md)
   * [Bartz Correlation](wiki/bartz-correlation.md)
   * [Cavitation and Choked Flow](wiki/cavitation-and-choked-flow.md)
