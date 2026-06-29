@@ -14,7 +14,7 @@ In this guide, you will learn how to use the NASA CEARun web version to obtain e
 
 This goes over how to obtain those values given a fixed set of conditions. It is the foundation of the foundation of the foundation to rocket design, so please make sure you are familiar with what the solver is doing on the high level such that you can incorporate it into your design effectively.&#x20;
 
-The limitations of the web version is, of course, that you can't directly integrate it into your script. Hence, we will be using the python (our main script language) / Matlab with the downloadable version of MATLAB which we are able to obtain from NASA @ [https://github.com/nasa/cea](https://github.com/nasa/cea) and run locally for full design workflow, batch cases, and integration with our own design tools. For that, please check out [nasa-cea-python.md](nasa-cea-python.md "mention"). The download process is quite complicated so make sure to reach out to Baldwin or Michael if you have any troubles.&#x20;
+The limitations of the web version is, of course, that you can't directly integrate it into your script. Hence, we will be using the python (our main script language) / Matlab with the downloadable version of MATLAB which we are able to obtain from NASA @ [https://github.com/nasa/cea](https://github.com/nasa/cea) and run locally for full design workflow, batch cases, and integration with our own design tools. For that, please check out [nasa-cea-python](nasa-cea-python/ "mention"). The download process is quite complicated so make sure to reach out to Baldwin or Michael if you have any troubles.&#x20;
 
 
 
