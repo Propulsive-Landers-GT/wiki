@@ -1,6 +1,6 @@
 # Component dP Equations
 
-## Main Reference: [Crane Technical Paper 410](https://drive.google.com/file/d/1vBPWerZ9gr5oE8z6nHaL11AzitJ6nr42/view?usp=sharing)
+## <mark style="color:blue;">Main Reference:</mark> [Crane Technical Paper 410](https://drive.google.com/file/d/1vBPWerZ9gr5oE8z6nHaL11AzitJ6nr42/view?usp=sharing)
 
 This page collects common pressure drop equations used for feed system components. No explanations for workflow here, it is simple a page full of equations for pipes, fittings, valves, bends, contractions, expansions, Cv parts, and CdA parts.
 
@@ -318,5 +318,5 @@ You would need to know:
 * What fraction of flow goes through the branch?
 * What is the branch diameter ratio?
 
-For tees and wyes, do not just use one random K value unless it is a rough early estimate. Which path the fluid takes matters.&#x20;
+For calculations involving Tees and Wyes, check their corresponding section in Crane 410.&#x20;
 
