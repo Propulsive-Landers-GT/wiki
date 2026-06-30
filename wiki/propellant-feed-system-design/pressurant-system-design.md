@@ -42,6 +42,8 @@ Starting from its most basic form, below shows 3 different configurations for wh
 
 ## Regulator Behavior
 
+Major Reference: [https://www.swagelok.com/downloads/webcatalogs/en/ms-06-114.pdf](https://www.swagelok.com/downloads/webcatalogs/en/ms-06-114.pdf)
+
 A regulator is not a perfect constant pressure device. It is a mechanical component that responds to upstream pressure, downstream pressure, flow demand, spring force, seat behavior, and internal geometry. As a result, the pressure downstream of a regulator is not always exactly equal to the number we think we set.
 
 For regs, the important behaviors to understand are droop, creep, lockup, and flow capacity (flow capacity/reg sizing is covered specifically in [regulator-sizing.md](regulator-sizing.md "mention")).
@@ -70,10 +72,6 @@ For regs, the important behaviors to understand are droop, creep, lockup, and fl
 
 The main idea here is that we should design around the regulator's behavior using manufacturer's datasheet whenever possible, verify it, and account for it before we get to the hotfire.&#x20;
 
-#### Reading Droop Curve&#x20;
-
-
-
 ### Creep
 
 Creep is when the regulator outlet pressure slowly rises even when there is little or no flow.
@@ -91,6 +89,13 @@ In practice:
 ### Lockup
 
 A regulator’s **lockup** pressure refers to the pressure increase in the regulator’s outlet pressure above setpoint required to shut the regulator off tight.
+
+* Essentially, the static no flow pressure (when fluid's not moving) downstream of the regulator may settle slightly higher than the pressure we set. This happens as the downstream pressure had to rise enough to fully close the regulator seat.
+
+So if we set a regulator to `500 psi` while flowing, it could settle at something like `510-520 psi` once flow stops. That small stable offset is usually lockup.
+
+* This is different from creep. If the pressure rises slightly and then stops, that is lockup. If the pressure keeps slowly climbing over time, that is creep, and that is a much bigger concern.
+* Lockup pressure is not normally indicated as a specific numerical value on a standard regulator datasheet. However, most regulator design selection guides estimate that standard lockup pressures will be less than 5% of the regulator's total control range so keep that in mind.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
