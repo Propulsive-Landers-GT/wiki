@@ -23,7 +23,7 @@ The limitations of the web version is, of course, that you can't directly integr
 * Official link to NASA-CEA: [https://cearun.grc.nasa.gov/](https://cearun.grc.nasa.gov/)
 * CEARun has a lot to offer, but for our purposes we will focus on only the rocket CEA.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -37,13 +37,13 @@ Here, you have fields which you can choose to fill on either the left or right, 
 
 Here, let's say I want to see how my engine does at 40 barA. <mark style="color:red;">**DON'T FORGET YOUR UNITS!**</mark>
 
-<div><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Select Fuel & Oxidizer
 
 More often than not, your desired fuel and oxidizer will not be the on the front page of your fuel/oxidizer selection page. So, head to **"Use Periodic Table (mixtures)"**
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Here, you want to select the elements that make up your fuel. At this time of writing, we're still working on the 1000N N2O(L)/Paraffin engine and since we're on the fuel page, we select the elements that make-up paraffin (paraffin = saturated hydrocarbons made of carbon and hydrogen chains so we pick **"Carbon"** and **"Hydrogen"** on the periodic table.
 
